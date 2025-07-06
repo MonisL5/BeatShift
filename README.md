@@ -7,7 +7,7 @@ Python tool to migrate Spotify playlists to YouTube Music using APIs.
 - Automatic song matching via metadata
 - Custom YouTube playlist creation
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Python 3.10+
 - Spotify Web API
