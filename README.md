@@ -55,4 +55,5 @@ python main.py
 - This app respects API quotas and handles retry logic.
 
 ## License
-MIT
+
+This project is licensed under the [MIT License](https://github.com/MonisL5/BeatShift/blob/main/LICENSE).
