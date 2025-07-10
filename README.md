@@ -23,8 +23,7 @@ git clone https://github.com/YOUR_USERNAME/BeatShift.git
 
 
 2. Create and activate virtual environment:
-python -m venv venv
-venv\Scripts\activate
+python -m venv\Scripts\activate
 
 
 4. Install dependencies:
